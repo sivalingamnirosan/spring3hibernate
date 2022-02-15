@@ -15,5 +15,6 @@ phases:
     - echo Build completed on `date`
 artifacts:
   files:
+  - appsepc.yml
   - target/Spring3HibernateApp.war
   - scripts/*
